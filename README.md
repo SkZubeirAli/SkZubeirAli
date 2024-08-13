@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkZubeirAli
-- 👀 I’m interested in full stack developer
+- 👀 I’m interested in full stack developement
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me via mail or my instagram __zubbyyy__
