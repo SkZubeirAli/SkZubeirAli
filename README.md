@@ -47,7 +47,7 @@ Front-end is where I live. Back-end is where I connect the dots.
 
 <p align="center">
   <a href="https://github.com/SkZubeirAli/huda-mehandi-artist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkZubeirAli&repo=huda-mehndiartist&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkZubeirAli&repo=huda-mehandi-artist&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/SkZubeirAli/grafterr">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkZubeirAli&repo=grafterr&theme=tokyonight&hide_border=true"/>
