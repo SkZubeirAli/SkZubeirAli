@@ -12,11 +12,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SkZubeirAli&color=6366f1&style=for-the-badge&label=Profile+Views"/>
 </p>
-<p align="center">
+<!--<p align="center">
   <a href="https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?  url=https%3A%2F%2Fgithub.com%2FSkZubeirAli&count_bg=%236366F1&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
   </a>
-</p>
+</p>-->
 
 ---
 
