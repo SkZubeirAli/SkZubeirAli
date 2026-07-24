@@ -57,14 +57,14 @@ Front-end is where I live. Back-end is where I connect the dots.
 ### 🎨 Huda Mehndi Artist
 Luxury mehndi artist portfolio — GSAP animations, Lenis smooth
 scroll, pinned horizontal scroll, SVG loader, Instagram slider,
-masonry gallery, PHP contact form with auto-reply.
+masonry gallery, PHP contact form with auto-reply.<br>
 `HTML` `CSS` `Vanilla JS` `GSAP` `PHP`
 
 ### 💻👨‍💻 Website Content Auditor
 Website Content Auditor is a Python desktop application that crawls websites, 
 scans every page for prohibited or configurable words, identifies their locations, 
 suggests replacement phrases, and exports detailed Excel reports. Built for SEO teams, 
-content editors, and digital agencies to automate large-scale website content audits.
+content editors, and digital agencies to automate large-scale website content audits.<br>
 `HTML` `Python` `XML` `Tkinter` `Requests` `BeautifulSoup4` `lxml` `Pandas` 
 `OpenPyXL` `Regex`  `Desktop GUI` `Web Scraping` `Excel Automation` 
 
