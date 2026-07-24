@@ -61,10 +61,10 @@ masonry gallery, PHP contact form with auto-reply.
 `HTML` `CSS` `Vanilla JS` `GSAP` `PHP`
 
 ### 💻👨‍💻 Website Content Auditor
-A desktop tool that crawls your WordPress websites, finds words/phrases 
-you want to improve for SEO and content quality, suggests better alternatives, 
-and exports everything to an Excel report — it never edits your site. 
-You review the report and make changes manually..
+Website Content Auditor is a Python desktop application that crawls websites, 
+scans every page for prohibited or configurable words, identifies their locations, 
+suggests replacement phrases, and exports detailed Excel reports. Built for SEO teams, 
+content editors, and digital agencies to automate large-scale website content audits.
 `HTML` `Python` `XML` `Tkinter` `Requests` `BeautifulSoup4` `lxml` `Pandas` 
 `OpenPyXL` `Regex`  `Desktop GUI` `Web Scraping` `Excel Automation` 
 
