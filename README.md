@@ -60,11 +60,13 @@ scroll, pinned horizontal scroll, SVG loader, Instagram slider,
 masonry gallery, PHP contact form with auto-reply.
 `HTML` `CSS` `Vanilla JS` `GSAP` `PHP`
 
-### 🍽️ Grafterr Landing Page
-Pixel-perfect landing page to a Figma spec. Dynamic JSON content,
-simulated API, CSS skeleton loaders, responsive carousel with
-touch swipe — zero frameworks.
-`HTML` `CSS` `Vanilla JS (ES6 modules)`
+### 💻👨‍💻 Website Content Auditor
+A desktop tool that crawls your WordPress websites, finds words/phrases 
+you want to improve for SEO and content quality, suggests better alternatives, 
+and exports everything to an Excel report — it never edits your site. 
+You review the report and make changes manually..
+`HTML` `Python` `XML` `Tkinter` `Requests` `BeautifulSoup4` `lxml` `Pandas` 
+`OpenPyXL` `Regex`  `Desktop GUI` `Web Scraping` `Excel Automation` 
 
 ---
 
